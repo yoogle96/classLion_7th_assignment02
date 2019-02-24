@@ -1,0 +1,3 @@
+{{ object.title }}
+{% comment %} {{ object.user.get_full_name }} {% endcomment %}
+{{ object.body }}
